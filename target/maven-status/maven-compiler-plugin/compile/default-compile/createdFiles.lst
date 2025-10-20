@@ -1,0 +1,9 @@
+com\kaiburr\taskbackend\config\CorsConfig$1.class
+com\kaiburr\taskbackend\controller\TaskController.class
+com\kaiburr\taskbackend\TaskBackendApplication.class
+com\kaiburr\taskbackend\model\TaskExecution.class
+com\kaiburr\taskbackend\config\CorsConfig.class
+com\kaiburr\taskbackend\repository\TaskRepository.class
+com\kaiburr\taskbackend\model\Task.class
+com\kaiburr\taskbackend\util\CommandValidator.class
+com\kaiburr\taskbackend\service\TaskService.class
